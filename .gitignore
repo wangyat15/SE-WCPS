@@ -1,0 +1,6 @@
+.venv/
+.idea
+.vscode
+__pycache__/
+classes.png
+packages.png

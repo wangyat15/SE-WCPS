@@ -1,0 +1,10 @@
+requests
+owslib
+numpy
+scipy
+matplotlib
+IPython
+ipykernel
+Pillow
+Pylint
+
