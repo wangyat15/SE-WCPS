@@ -1,6 +1,6 @@
 # Spatio-Temporal Datacubes: The OGC/ISO Coverage Standards
 
-This repository contains the implementation of a Python library that allows us to iteract with the Rasdaman server via convenient API.
+This repository contains the implementation of a Python library that allows us to interact with the Rasdaman server via convenient API.
 
 ## Set Up
 
